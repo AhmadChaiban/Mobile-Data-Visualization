@@ -15,3 +15,5 @@ three graphs can be seen below:
 #### The Third graph is a heatmap that studies monthly spend. It also shows the highest and lowest amount spent for a specific month.
 
 <img src="md_images/HeatMap.gif" width = "296" height = "459"/>
+
+Copyright @Decentra Tech, Beirut Lebanon
